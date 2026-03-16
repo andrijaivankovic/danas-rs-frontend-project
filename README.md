@@ -1,6 +1,6 @@
 # Danas.rs News Portal - Frontend Recreation 📰
 
-A high-fidelity, pixel-perfect recreation of the **Danas.rs** news portal. This project was developed as part of the **"Web Design and Development"** course at **RAF (Računarski Fakultet)** in Belgrade.
+A high-fidelity, pixel-perfect recreation of the **Danas.rs** news portal. This project was developed as part of the **"Web Design and Development"** course at **RAF (Računarski Fakultet)** in Belgrade.All rights to the original design and content belong to Danas.rs.
 
 ## 🚀 Project Overview
 The goal of this project was to master complex UI layouts and responsive web design by recreating a real-world, content-heavy news platform.
