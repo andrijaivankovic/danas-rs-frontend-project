@@ -18,7 +18,7 @@ The goal of this project was to master complex UI layouts and responsive web des
 * **Git:** Version control and deployment via GitHub.
 
 ## 📸 Preview
-![Full Page Preview](danas-full.jpg)
+![Full Page Preview](danas-full.png)
 
 ---
 **Developed by:** [Andrija Ivanković](https://github.com/andrijaivankovic)  
